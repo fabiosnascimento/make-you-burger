@@ -1,24 +1,29 @@
-# make_your_burguer
+# Restaurante Make Your Burger
 
-## Project setup
+## Sobre o projeto
+
+Make Your Burger é um projeto simples de estudo feito em Vue 3 que simula um restaurante estilo Subway, com tela de montagem do hambúrguer e tela de gerenciamento do pedido.
+
+## Layout
+<img src=https://github.com/fabiosnascimento/assets/blob/master/Burger11.jpg width="800"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/Burger2.jpg width="800"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/Burger3.jpg width="800"/>
+
+### Baixar as dependências
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar o projeto
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Rodar o backend
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run backend
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Autor
+
+Fabio da Silva Nascimento
+
+https://www.linkedin.com/in/fabionascimento
